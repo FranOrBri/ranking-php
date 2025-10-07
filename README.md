@@ -48,6 +48,9 @@ En `Infrastructure`
 
 Las rutas de los controladores estan definidas por medio de un fichero yaml en: `config/routes/ads.yaml`
 ### Testing
+En el directorio: `src/Infrastructure/Repositories/InFile/Data` estan los ficheros que se usan para la "persistencia" de datos. Uno para las
+Pictures y otro para los Ad. Hay un archivo de backup (`ads.json.bak`) con datos iniciales proporcionados por la prueba. Tambien he agregado un
+fichero `http/ads.http` para poder realizar las disintas llamadas a los endpoints.
 
 Para el testing he realizado un test unitario con PHPUnit del servicio que calcula la puntuación de los anuncios:
 `AdScoreCalculator`. Para lanzar los test existe este comando:
@@ -55,5 +58,3 @@ Para el testing he realizado un test unitario con PHPUnit del servicio que calcu
 ```
 make test
 ```
-
-También he agregado un fichero `http/ads.http` para poder realizar las disintas llamadas a los endpoints.
