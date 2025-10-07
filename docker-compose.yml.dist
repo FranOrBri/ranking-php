@@ -1,0 +1,17 @@
+services:
+  docker-ranking-php:
+    build:
+      context: ./docker/php
+      args:
+        UID: $U_ID
+    container_name: docker-ranking-php
+    ports:
+      - "1000:1000"
+    volumes:
+      - ./:/appdata/www
+    networks:
+      - docker-ranking-network
+
+networks:
+  docker-ranking-network:
+    external: true

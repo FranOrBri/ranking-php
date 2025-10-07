@@ -1,0 +1,96 @@
+[
+    {
+        "id": 1,
+        "typology": "CHALET",
+        "description": "Este piso es una ganga, compra, compra, COMPRA!!!!!",
+        "pictures": [],
+        "houseSize": 300,
+        "gardenSize": null,
+        "score": 5,
+        "irrelevantSince": "2025-10-07T17:54:28+00:00"
+    },
+    {
+        "id": 2,
+        "typology": "FLAT",
+        "description": "Nuevo \u00e1tico c\u00e9ntrico reci\u00e9n reformado. No deje pasar la oportunidad y adquiera este \u00e1tico de lujo",
+        "pictures": [
+            4
+        ],
+        "houseSize": 300,
+        "gardenSize": null,
+        "score": 15,
+        "irrelevantSince": "2025-10-07T17:54:28+00:00"
+    },
+    {
+        "id": 3,
+        "typology": "CHALET",
+        "description": "",
+        "pictures": [
+            2
+        ],
+        "houseSize": 300,
+        "gardenSize": null,
+        "score": 0,
+        "irrelevantSince": "2025-10-07T17:54:28+00:00"
+    },
+    {
+        "id": 4,
+        "typology": "FLAT",
+        "description": "\u00c1tico c\u00e9ntrico muy luminoso y reci\u00e9n reformado, parece nuevo",
+        "pictures": [
+            5
+        ],
+        "houseSize": 300,
+        "gardenSize": null,
+        "score": 20,
+        "irrelevantSince": "2025-10-07T17:54:28+00:00"
+    },
+    {
+        "id": 5,
+        "typology": "FLAT",
+        "description": "Pisazo",
+        "pictures": [
+            3,
+            8
+        ],
+        "houseSize": 300,
+        "gardenSize": null,
+        "score": 0,
+        "irrelevantSince": "2025-10-07T17:54:28+00:00"
+    },
+    {
+        "id": 6,
+        "typology": "GARAGE",
+        "description": "",
+        "pictures": [
+            6
+        ],
+        "houseSize": 300,
+        "gardenSize": null,
+        "score": 0,
+        "irrelevantSince": "2025-10-07T17:54:28+00:00"
+    },
+    {
+        "id": 7,
+        "typology": "GARAGE",
+        "description": "Garaje en el centro de Albacete",
+        "pictures": [],
+        "houseSize": 300,
+        "gardenSize": null,
+        "score": 45,
+        "irrelevantSince": null
+    },
+    {
+        "id": 8,
+        "typology": "CHALET",
+        "description": "Maravilloso chalet situado en lAs afueras de un peque\u00f1o pueblo rural. El entorno es espectacular, las vistas magn\u00edficas. \u00a1C\u00f3mprelo ahora!",
+        "pictures": [
+            1,
+            7
+        ],
+        "houseSize": 300,
+        "gardenSize": null,
+        "score": 0,
+        "irrelevantSince": "2025-10-07T17:54:28+00:00"
+    }
+]

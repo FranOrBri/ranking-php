@@ -1,0 +1,8 @@
+### Public Listing
+GET http://localhost:1000/api/ads/public
+
+### Quality Listing
+GET http://localhost:1000/api/ads/quality
+
+### Set ads score
+GET http://localhost:1000/api/ads/score

@@ -1,0 +1,14 @@
+public_list:
+  path: /api/ads/public
+  controller: App\Infrastructure\Controllers\PublicListingController::__invoke
+  methods: GET
+
+quality_list:
+  path: /api/ads/quality
+  controller: App\Infrastructure\Controllers\QualityListingController::__invoke
+  methods: GET
+
+calculate_score:
+  path: /api/ads/score
+  controller: App\Infrastructure\Controllers\CalculateScoreController::__invoke
+  methods: GET
